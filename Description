@@ -1,1 +1,7 @@
-# PreReqChecker
+  Description:
+  
+  Given a text file with a list of each class in the Rutgers Computer Science major these classes prerequisites, this code is able to create an adjacency list of each 
+class followed by every direct prerequisite that is required to take said class, determine if a given course could be a valid prerequisite to another course while not 
+creating any runovers that prevent you from being able to take certain courses, can determine if you are eligible to take a certain course given what courses you have 
+previously completed, and is able to list off what courses you need to take in order to be eligible to take a certain course given a target class and the classes you 
+have already taken.
